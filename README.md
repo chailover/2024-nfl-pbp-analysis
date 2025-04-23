@@ -55,7 +55,7 @@ jupyter notebook
 
 ## Data
 
-The project uses NFL play-by-play data from the 2024 season. The data is stored in the `data` directory.
+The project uses NFL play-by-play data from the 2024 season. The data is stored in the `data` directory. It can also be accessed at https://nflsavant.com/about.php.
 
 ## Analysis
 
