@@ -41,7 +41,6 @@ venv.bak/
 *.swo
 
 # Data files
-*.csv
 *.xlsx
 *.xls
 *.db
